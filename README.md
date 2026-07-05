@@ -21,6 +21,7 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/nithin7907/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nithin7907/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/nithin7907/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Queue
 |  |
 | ------- |
@@ -54,4 +55,8 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/nithin7907/Leetcode/tree/master/0258-add-digits) |
+## Hash Table
+|  |
+| ------- |
+| [2956-find-common-elements-between-two-arrays](https://github.com/nithin7907/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 <!---LeetCode Topics End-->
