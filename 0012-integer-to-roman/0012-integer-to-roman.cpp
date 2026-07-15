@@ -4,8 +4,6 @@ public:
         map<int,string>map;
         string ans="";
         map[1]="I";
-        map[2]="II";
-        map[3]="III";
         map[4]="IV";
         map[6]="VI";
         map[7]="VII";
@@ -18,8 +16,6 @@ public:
         map[80]="LXXX";
         map[50]="L";
         map[100]="C";
-        map[200]="CC";
-        map[300]="CCC";
         map[600]="DC";
         map[700]="DCC";
         map[800]="DCCC";
