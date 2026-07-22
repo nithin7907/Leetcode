@@ -33,6 +33,7 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/SaiNithin3470/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2295-replace-elements-in-an-array](https://github.com/SaiNithin3470/Leetcode/tree/master/2295-replace-elements-in-an-array) |
 | [2418-sort-the-people](https://github.com/nithin7907/Leetcode/tree/master/2418-sort-the-people) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/SaiNithin3470/Leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/nithin7907/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/SaiNithin3470/Leetcode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Queue
@@ -93,6 +94,7 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 | [2325-decode-the-message](https://github.com/SaiNithin3470/Leetcode/tree/master/2325-decode-the-message) |
 | [2405-optimal-partition-of-string](https://github.com/SaiNithin3470/Leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2418-sort-the-people](https://github.com/nithin7907/Leetcode/tree/master/2418-sort-the-people) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/SaiNithin3470/Leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/nithin7907/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/SaiNithin3470/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/nithin7907/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
@@ -137,4 +139,8 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 |  |
 | ------- |
 | [2405-optimal-partition-of-string](https://github.com/SaiNithin3470/Leetcode/tree/master/2405-optimal-partition-of-string) |
+## Enumeration
+|  |
+| ------- |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/SaiNithin3470/Leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 <!---LeetCode Topics End-->
