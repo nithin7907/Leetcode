@@ -26,6 +26,7 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 | [1002-find-common-characters](https://github.com/nithin7907/Leetcode/tree/master/1002-find-common-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SaiNithin3470/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/nithin7907/Leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/SaiNithin3470/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nithin7907/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1512-number-of-good-pairs](https://github.com/nithin7907/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SaiNithin3470/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -85,6 +86,7 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 | [1002-find-common-characters](https://github.com/nithin7907/Leetcode/tree/master/1002-find-common-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SaiNithin3470/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/nithin7907/Leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/SaiNithin3470/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1512-number-of-good-pairs](https://github.com/nithin7907/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SaiNithin3470/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/nithin7907/Leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -141,6 +143,7 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 ## Greedy
 |  |
 | ------- |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/SaiNithin3470/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [2405-optimal-partition-of-string](https://github.com/SaiNithin3470/Leetcode/tree/master/2405-optimal-partition-of-string) |
 ## Enumeration
 |  |
